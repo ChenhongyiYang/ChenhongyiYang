@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a second year PhD student at the University of Edinburgh. I am currently working on computer vision problems. :eyes:
 
 [![Chenhongyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChenhongyiYang)](https://github.com/ChenhongyiYang/github-readme-stats)
 
